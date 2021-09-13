@@ -1,3 +1,6 @@
+![eyes](https://user-images.githubusercontent.com/87256580/133133194-7b7d37ad-cb26-4050-b868-1bbf937b89cd.jpg)
+
+
 ## Eyes-Movement Exercise 
 
 This is a funny project where you can create eyes that follow the mouse's movement!
