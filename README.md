@@ -1,6 +1,6 @@
 ## Eyes-Movement Exercise 
 
-A funny project to create eyes that follow the mouse's movement!
+This is a funny project where you can create eyes that follow the mouse's movement!
 
 ## RoadMap
 
